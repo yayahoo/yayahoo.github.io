@@ -2721,9 +2721,15 @@ body {
 .sidebar {
   opacity: 0.8;
 }
+.sidebar-inner {
+  background: rgba(255,255,255,0.8) none repeat scroll !important;
+}
 .content-wrap {
   opacity: 0.8;
 }
 .popup {
   opacity: 0.8;
+}
+.post-block {
+  background: rgba(255,255,255,0.9) none repeat scroll !important;
 }
